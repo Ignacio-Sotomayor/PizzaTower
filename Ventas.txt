@@ -1,0 +1,21 @@
+DII24 Lays       3
+DII24 Lays       1
+EWY86 Arcor      2
+EWY86 Arcor      6
+GJB00 Pepsi      5
+GJB00 Pepsi      4
+GJB00 Pepsi      1
+GWG13 La Merced  7
+GWG13 La Merced  4
+HXQ41 Swift      8
+HXQ41 Swift      2
+ISY81 Casancrem  1
+KKR42 Pringles   4
+QZT09 Bimbo      2
+TQU02 Branca     2
+TUM54 Smirnoff   4
+TUM54 Smirnoff   1
+USA72 Don Satur  6
+USA72 Don Satur  1
+XHS16 Jorguito   6
+XHS16 Jorguito   1

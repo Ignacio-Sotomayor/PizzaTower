@@ -1,0 +1,41 @@
+DII24 Bamboo      3500 10
+DII24 Bamboo      4000 4
+DII24 Makro       5000 2
+DII24 Makro       3500 8
+EWY86 Makro       2500 11
+EWY86 Jaguar      2600 9
+EWY86 Jaguar      4000 3
+EWY86 Rimoldi     2400 15
+GJB00 Coto        4000 8
+GJB00 EL gauchito 4100 9
+GJB00 Jaguar      3900 7
+GJB00 Rimoldi     3900 4
+GWG13 Coto        5000 10
+GWG13 Rimoldi     5000 11
+GWG13 Rimoldi     7000 6
+HXQ41 Bamboo      3500 6
+HXQ41 Coto        3600 5
+HXQ41 Makro       3400 7
+ISY81 EL gauchito 5000 2
+ISY81 EL gauchito 2800 8
+ISY81 Jaguar      2900 8
+KKR30 Bamboo      3000 7
+KKR30 Makro       3000 8
+QZT09 Bamboo      4500 6
+QZT09 Coto        4600 5
+QZT09 Kubo        4450 7
+SKO78 Jaguar      4000 5
+SKO78 Jaguar      3000 9
+SKO78 Kubo        2900 10
+SKO78 Makro       4100 5
+TQU02 Bamboo      7000 9
+TQU02 Jaguar      7100 9
+TQU02 Jaguar      10000 6
+TQU02 Makro       9000 11
+TSK54 EL gauchito 3500 7
+TSK54 Jaguar      3000 8
+TSK54 Jaguar      4000 6
+YSZ28 Bamboo      1000 6
+YSZ28 Bamboo      750 10
+YSZ28 EL gauchito 800 8
+YSZ28 Kubo        700 13

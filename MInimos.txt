@@ -1,0 +1,15 @@
+DII24 Lays       10 20
+EWY86 Arcor      10 15
+GJB00 Pepsi      20 40
+GWG13 La Merced  10 25
+HXQ41 Swift      30 45
+ISY81 Casancrem  15 30
+KKR30 Ser        10 30
+PDZ24 Yogurisimo 20 50
+QZT09 Bimbo      15 35
+SKO78 Finlandia  15 30
+TQU02 Branca     15 45
+TSK54 Manaos     20 50
+USA72 Don Satur  20 60
+XHS16 Jorguito   15 30
+YSZ28 Terrabusi  10 25
