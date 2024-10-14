@@ -17,6 +17,7 @@ Type
   End;
   tMinimos = Record
     idProd = string[5];
+    nombre: string[11];
     cantMin = byte;
     cantCrit = byte;
   End;

@@ -78,7 +78,7 @@ Begin
   close(output);
   close(input);
 End;
-Procedure cargadorMinOpertivo(Var output:archTMins);
+Procedure cargardorMinOpertivo(Var output:archTMins);
 Var 
   actual,centinela : tMinimos;
   input: Text;
@@ -101,10 +101,8 @@ End;
 Var 
   stock,ventas:   archTProd;
   proveedores: archTProv;
-  reservas: archTMins;
 Begin
   cargadorStock(stock);
   cargadorVentas(ventas);
   cargadorProveedores(proveedores);
-  cargadorMInOperativo(reservas);
 End.
