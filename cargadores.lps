@@ -9,8 +9,9 @@
         <Filename Value="cargadores.lpr"/>
         <IsPartOfProject Value="True"/>
         <IsVisibleTab Value="True"/>
-        <CursorPos X="8" Y="17"/>
-        <UsageCount Value="20"/>
+        <CursorPos X="31" Y="9"/>
+        <FoldState Value=" T390K2 Pi2i80 T6W03&apos;"/>
+        <UsageCount Value="21"/>
         <Loaded Value="True"/>
       </Unit>
       <Unit>
@@ -18,12 +19,13 @@
         <IsPartOfProject Value="True"/>
         <UnitName Value="Tipos"/>
         <EditorIndex Value="1"/>
-        <CursorPos X="5" Y="2"/>
-        <UsageCount Value="20"/>
+        <CursorPos Y="18"/>
+        <FoldState Value=" TC6G42/"/>
+        <UsageCount Value="21"/>
         <Loaded Value="True"/>
       </Unit>
     </Units>
-    <JumpHistory HistoryIndex="1">
+    <JumpHistory HistoryIndex="2">
       <Position>
         <Filename Value="tipos.pas"/>
         <Caret Column="11"/>
@@ -31,6 +33,10 @@
       <Position>
         <Filename Value="cargadores.lpr"/>
         <Caret Line="4"/>
+      </Position>
+      <Position>
+        <Filename Value="cargadores.lpr"/>
+        <Caret Line="7"/>
       </Position>
     </JumpHistory>
     <RunParams>

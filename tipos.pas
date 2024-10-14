@@ -15,7 +15,16 @@ Type
     precio: Word;
     tardanza: byte;
   End;
-
+  tMinimos = Record
+    idProd = string[5];
+    cantMin = byte;
+    cantCrit = byte;
+  End;
+  tCompras = Record
+    idProd : string[5];
+    cantProd : byte;
+    prioridad : byte;
+  End;
 
 Implementation
 End.
