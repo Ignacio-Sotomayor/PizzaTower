@@ -187,6 +187,7 @@ Var
   stock: archTProd;
   compras: archTCompras;
 Begin
+  cargarArchivos;
   Writeln('-----------------ERRORES------------------------------------------');
   controlDeVentas(stock);
   generarListaCompras2(compras);

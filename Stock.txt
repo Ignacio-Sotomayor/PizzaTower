@@ -1,11 +1,11 @@
-DII24 Lays       35
-EWY86 Arcor      41
-GJB00 Pepsi      38
+DII24 Lays       30
+EWY86 Arcor      29
+GJB00 Pepsi      25
 GWG13 La Merced  41
-HXQ41 Swift      47
+HXQ41 Swift      32
 ISY81 Casancrem  41
-KKR30 Ser        41
-PDZ24 Yogurisimo 63
+KKR30 Ser        29
+PDZ24 Yogurisimo 53
 QZT09 Bimbo      39
 SKO78 Finlandia  50
 TQU02 Branca     35

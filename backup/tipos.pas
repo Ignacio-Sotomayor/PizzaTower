@@ -6,6 +6,7 @@ Interface
     centinela = 'ZZZ99';
   Type
     str5 = string[5];
+    tVecId = Array [1..25] of str5;
     tProducts =   Record
       idProd:   str5;
       nombre:   string[10];
@@ -29,7 +30,6 @@ Interface
       cantProd : byte;
       prioridad : byte;
     End;
-    tVecId = Array [1..25] of str5;
     vecTProd = Array[1..30] of tProducts;
     archTProd =   FILE Of tProducts;
     archTProv = FILE Of tProveedores;

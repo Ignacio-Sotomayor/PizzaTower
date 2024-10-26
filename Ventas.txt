@@ -1,21 +1,52 @@
+DII24 Lays       12
+DII24 Lays       7
+DII24 Lays       2
 DII24 Lays       3
-DII24 Lays       1
+EWY86 Arcor      8
+EWY86 Arcor      5
 EWY86 Arcor      2
-EWY86 Arcor      6
-GJB00 Pepsi      5
-GJB00 Pepsi      4
-GJB00 Pepsi      1
-GWG13 La Merced  7
-GWG13 La Merced  4
-HXQ41 Swift      8
-HXQ41 Swift      2
+EWY86 Arcor      12
+FJR51 Monster    7
+FJR51 Monster    2
+FJR51 Monster    9
+GJB00 Pepsi      10
+GJB00 Pepsi      8
+GJB00 Pepsi      2
+GWG13 La Merced  5
+GWG13 La Merced  3
+GWG13 La Merced  9
+GWG13 La Merced  8
+GWG13 La Merced  10
+GWG13 La Merced  5
+HXQ41 Swift      16
+HXQ41 Swift      4
+ISY81 Casancrem  9
+ISY81 Casancrem  4
 ISY81 Casancrem  1
-KKR42 Pringles   4
-QZT09 Bimbo      2
-TQU02 Branca     2
+PDZ24 Yogurisimo 10
+PDZ24 Yogurisimo 5
+PDZ24 Yogurisimo 9
+PDZ24 Yogurisimo 6
+KKR42 Pringles   8
+QZT09 Bimbo      4
+SKO78 Finlandia  5
+SKO78 Finlandia  9
+SKO78 Finlandia  4
+TQU02 Branca     4
+TQU02 Branca     10
+TQU02 Branca     9
+TSK54 Manaos     9
+TSK54 Manaos     4
+TSK54 Manaos     11
+TSK54 Manaos     6
 TUM54 Smirnoff   4
 TUM54 Smirnoff   1
-USA72 Don Satur  6
-USA72 Don Satur  1
-XHS16 Jorguito   6
-XHS16 Jorguito   1
+USA72 Don Satur  12
+USA72 Don Satur  5
+USA72 Don Satur  3
+USA72 Don Satur  9
+XHS16 Jorguito   12
+XHS16 Jorguito   10
+YSZ28 Terrabusi  8
+YSZ28 Terrabusi  3
+YSZ28 Terrabusi  10
